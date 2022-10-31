@@ -1,8 +1,6 @@
 ############################ Default configuration #########################
 baseURL = "https://demo.gethugothemes.com/"
 languageCode = "en-us"
-# site title 
-title = "Northendlab | Blog Template"
 # theme
 theme = "northendlab-light"
 # post pagination
@@ -40,31 +38,14 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "contact/"
-name = "Contact"
+URL = "threejs/"
+name = "threejs"
 weight = 1
 
 [[menu.main]]
 URL = "wunderkammern/"
 name = "Wunderkammern"
 weight = 2
-
-[[menu.main]]
-URL = "tools/"
-name = "tools"
-weight = 2
-
-# footer menu
-[[menu.footer]]
-URL = "contact/"
-name = "Contact"
-weight = 1
-
-[[menu.footer]]
-URL = "tools/"
-name = "tools"
-weight = 2
-
 
 ######################### Default Parameters ###########################
 [params]
@@ -79,8 +60,7 @@ description = "This is meta description"
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
-# copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+
 
 # preloader
 [params.preloader]
@@ -105,16 +85,8 @@ image = "images/banner/header.jpeg"
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
-[[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "#"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+
 
 

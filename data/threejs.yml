@@ -1,31 +1,23 @@
 tools:
 # tool category
-- title: Dev Tools
+- title: webGl
   tool:
   # tool loop in tool category
-  - name: Git
-    image: "/images/tools/Git.png"
+  - name: shader
+    image: "/images/tools/threejs.png"
     link: https://git-scm.com/
   # tool loop in tool category
-  - name: Atom
-    image: "/images/tools/Atom.png"
+  - name: 仿Bruno Simon作品
+    image: "/images/tools/threejs2.png"
     link: https://atom.io/
   # tool loop in tool category
-  - name: Notepad ++
-    image: "/images/tools/Notepad.png"
+  - name: 柏林算法城市
+    image: "/images/tools/threejs3.png"
     link: https://notepad-plus-plus.org/
-  # tool loop in tool category
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
-    link: https://www.sublimetext.com/
-  # tool loop in tool category
-  - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
-    link: https://code.visualstudio.com/
 
 
 # tool category
-- title: Design Tools
+- title: Three
   tool:
   # tool loop in tool category
   - name: Sketch
@@ -50,7 +42,7 @@ tools:
 
 
 # tool category
-- title: Digital Marketing Tools
+- title: React-three-fiber
   tool:
   # tool loop in tool category
   - name: Mailchimp
