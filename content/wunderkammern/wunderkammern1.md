@@ -3,6 +3,7 @@ title: "珍奇屋"
 date: 2022-06-14T11:11:08+08:00
 image: "/images/post/post-4.jpg"
 draft: false
+top: true
 ---
 
 &emsp;&emsp;**珍奇屋**是15到18世纪间，欧洲收藏家用于陈列自己收藏的稀奇物件和珍贵文物的屋子，是博物馆的前身。

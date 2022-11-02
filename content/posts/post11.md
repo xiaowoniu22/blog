@@ -1,8 +1,8 @@
 +++
-title = "原型链就是链表——挑战一句话解释一个概念"
+title = "原型链就是链表——一句话解释一个概念"
 image = "/images/post/person.png"
 author = "Echo Guo"
-date = 2022-08-02T14:49:24+08:00
+date = 2022-08-03T14:49:24+08:00
 description = "本质"
 categories = ["本质"]
 type = "post"

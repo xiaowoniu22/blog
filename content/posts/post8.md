@@ -2,7 +2,7 @@
 title = "线性代数——图形学基础"
 image = "/images/post/person.png"
 author = "Echo Guo"
-date = 2022-07-14T14:49:24+08:00
+date = 2022-10-14T14:49:24+08:00
 description = "线性代数"
 categories = ["线性代数"]
 type = "post"

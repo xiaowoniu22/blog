@@ -2,7 +2,7 @@
 title = "shader"
 image = "/images/post/person.png"
 author = "Echo Guo"
-date = 2022-07-25T14:49:24+08:00
+date = 2022-10-25T14:49:24+08:00
 description = "线性代数"
 categories = ["shader"]
 type = "post"

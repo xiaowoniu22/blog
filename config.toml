@@ -44,13 +44,13 @@ weight = 1
 
 [[menu.main]]
 URL = "wunderkammern/"
-name = "Wunderkammern"
+name = "珍奇屋"
 weight = 2
 
 ######################### Default Parameters ###########################
 [params]
 # home
-home = "Home"
+home = "首页"
 # logo
 # logo = "images/logo.svg"
 # meta data

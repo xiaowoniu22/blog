@@ -1,5 +1,5 @@
 +++
-title = "promise就是状态机—挑战一句话解释一个概念"
+title = "promise就是状态机——一句话解释一个概念"
 image = "/images/post/person.png"
 author = "Echo Guo"
 date = 2022-08-05T14:49:24+08:00
