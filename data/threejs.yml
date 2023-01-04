@@ -3,17 +3,23 @@ tools:
 - title: webGl
   tool:
   # tool loop in tool category
+  - name: geojson地铁
+    image: "/images/tools/subway.png"
+    link: https://ts-three.vercel.app/subway
   - name: shader
     image: "/images/tools/threejs.png"
-    link: https://git-scm.com/
+    link: https://ts-three.vercel.app/point
   # tool loop in tool category
   - name: 仿Bruno Simon作品
     image: "/images/tools/threejs2.png"
-    link: https://atom.io/
+    link: https://ts-three.vercel.app/level
   # tool loop in tool category
-  - name: 柏林算法城市
+  - name: 柏林噪声生成城市
     image: "/images/tools/threejs3.png"
-    link: https://notepad-plus-plus.org/
+    link: https://city-generator.vercel.app/
+  - name: 弹球小游戏
+    image: "/images/tools/game.png"
+    link: https://ts-three.vercel.app/game
 
 
 # tool category
