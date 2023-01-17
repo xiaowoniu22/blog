@@ -3,11 +3,14 @@ tools:
 - title: webGl
   tool:
   # tool loop in tool category
+  - name: 自动驾驶小汽车
+    image: "/images/tools/runningCar.png"
+    link: https://ts-three.vercel.app/runningCar
   - name: geojson地铁
     image: "/images/tools/subway.png"
     link: https://ts-three.vercel.app/subway
   - name: shader
-    image: "/images/tools/threejs.png"
+    image: "/images/tools/shader.png"
     link: https://ts-three.vercel.app/point
   # tool loop in tool category
   - name: 仿Bruno Simon作品
@@ -20,7 +23,7 @@ tools:
   - name: 弹球小游戏
     image: "/images/tools/game.png"
     link: https://ts-three.vercel.app/game
-
+  
 
 # tool category
 - title: Three
