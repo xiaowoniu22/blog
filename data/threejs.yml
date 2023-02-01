@@ -3,6 +3,9 @@ tools:
 - title: webGl
   tool:
   # tool loop in tool category
+  - name: 行驶在盘山公路的小汽车
+    image: "/images/tools/windingRoad.png"
+    link: https://ts-three.vercel.app/windingRoad
   - name: 自动驾驶小汽车
     image: "/images/tools/runningCar.png"
     link: https://ts-three.vercel.app/runningCar
@@ -13,7 +16,7 @@ tools:
     image: "/images/tools/shader.png"
     link: https://ts-three.vercel.app/point
   # tool loop in tool category
-  - name: 仿Bruno Simon作品
+  - name: R3F实现Bruno Simon
     image: "/images/tools/threejs2.png"
     link: https://ts-three.vercel.app/level
   # tool loop in tool category
