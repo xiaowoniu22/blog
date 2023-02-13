@@ -3,6 +3,9 @@ tools:
 - title: webGl
   tool:
   # tool loop in tool category
+  - name: 机械臂
+    image: "/images/tools/arm.png"
+    link: https://ts-three.vercel.app/robotArm
   - name: 行驶在盘山公路的小汽车
     image: "/images/tools/windingRoad.png"
     link: https://ts-three.vercel.app/windingRoad
