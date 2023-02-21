@@ -3,6 +3,9 @@ tools:
 - title: webGl
   tool:
   # tool loop in tool category
+  - name: 正余弦+shader模拟月相
+    image: "/images/tools/moon.png"
+    link: https://ts-three.vercel.app/moonPhase
   - name: 机械臂
     image: "/images/tools/arm.png"
     link: https://ts-three.vercel.app/robotArm
